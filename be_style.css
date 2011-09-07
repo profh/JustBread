@@ -1,0 +1,141 @@
+.P1 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 12pt;
+	font-style: normal;
+	font-weight: normal;
+	text-align: justify;
+	line-height: 16pt;
+	color: #000000;
+}
+
+
+.P2 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 9px;
+	font-style: normal;
+	font-weight: normal;
+	text-align: justify;
+}
+
+
+.T1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: bold;
+}
+
+.T2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: bold;
+}
+
+.T3 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: bold;
+}
+
+.T4 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: bold;
+	line-height: 16pt;
+}
+
+.C1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	font-style: normal;
+	font-weight: normal;
+}
+
+.C2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12pt;
+	font-style: normal;
+	font-weight: normal;
+}
+
+.L1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 16px;
+	font-weight: normal;
+}
+
+.M1 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 14pt;
+	font-style: italics;
+	font-weight: bold;
+	line-height: 20pt;
+}
+
+.F1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+	font-style: normal;
+	font-weight: bold;
+	text-align: center;
+	text-decoration: none;
+	color: #3366ff;
+}
+
+.F2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-style: normal;
+	text-align: center;
+	text-decoration: none;
+}
+
+H1	{
+	text-align:center;
+	font-family: "times", "times roman", "georgia", "serif";
+	font-weight: bold;
+	font-size: 36pt;	
+}
+
+H2	{
+	text-align:center;
+	font-family: "helvetica", "geneva", "sans-serif";
+	font-weight: bold;
+	font-size: 9pt;
+}
+
+H3	{
+	text-align:center;
+	font-family: "verdana", "gadget", "helvetica", "sans-serif";
+	font-weight: bold;
+	font-size: 11pt;
+}
+
+H4	{
+	font-family: "gadget", "verdana", "helvetica", "sans-serif";
+	font-weight: normal;
+	font-size: 12pt;
+}
+
+A:link	{
+		color:#66FF66;
+		text-decoration:none
+		}
+
+	
+
+A:visited	{
+			color:#66FF66;
+			text-decoration:none
+			}
+
+
+
+A:hover {
+		color:#339999;
+		text-decoration:underline
+		}

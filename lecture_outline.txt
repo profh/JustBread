@@ -1,0 +1,2 @@
+A.	View of site
+B.	Creating headers
